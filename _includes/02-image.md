@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a puppy](https://dogsnet.com/wp-content/uploads/2018/09/cute-puppy-names2.jpg)
